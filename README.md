@@ -1,7 +1,7 @@
 # 🎯 Day in the Life: AI-Powered Career Simulator
 
 An interactive career exploration tool that uses multi-agent AI to simulate realistic workday scenarios. Experience any career through intelligent agents that research, design scenarios, evaluate decisions, and narrate your journey.
-
+## Demo: https://dayinthelife-umqggyfqqwg2qwgecqnxlo.streamlit.app/
 ## 🌟 Features
 
 - **Multi-Agent AI System**: Four specialized AI agents work together:
