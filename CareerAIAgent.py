@@ -276,9 +276,9 @@ class MultiAgentCareerSimulator:
         return self.agent_log
 
 
-# Example usage demonstrating multi-agent coordination
+# Multi-agent coordination
 def main():
-    API_KEY = "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"
+    API_KEY = ""
 
     simulator = MultiAgentCareerSimulator(API_KEY)
 
